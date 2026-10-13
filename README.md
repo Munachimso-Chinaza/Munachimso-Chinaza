@@ -19,7 +19,7 @@ I am a passionate Data Analyst based in Lagos, Nigeria. I specialize in building
 - **Other Tools**: Jupyter Notebooks, Git/GitHub, Excel
 
 ## Key Projects
-1. **[Global Supply Chain Diagnostics](https://github.com/Munachimso-Chinaza/Coronavirus-Data-Tracker)** 
+1. **[Global Supply Chain Diagnostics]( https://munachimso-chinaza.github.io/Global-Supply-Chain-Diagnostics/)** 
 2. **[Credit Risk Performance](https://github.com/Munachimso-Chinaza/Starbucks-sales-performance-analysis)**
 
 **View all projects** and feel free to explore my work.
