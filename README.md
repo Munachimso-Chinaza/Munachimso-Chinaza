@@ -19,10 +19,8 @@ I am a passionate Data Analyst based in Lagos, Nigeria. I specialize in building
 - **Other Tools**: Jupyter Notebooks, Git/GitHub, Excel
 
 ## Key Projects
-1. **[Covid-19 Data Tracker](https://github.com/Munachimso-Chinaza/Coronavirus-Data-Tracker)** – Automated scraping, MySQL cleaning, Tableau trend dashboards
-2. **[Starbucks Spatial Analytics](https://github.com/Munachimso-Chinaza/Starbucks-sales-performance-analysis)** – Sales performance analysis and visualizations
-3. **[Pizza Sales Overview](https://github.com/Munachimso-Chinaza/Pizza-Sales-Dashboard-analysis)** – Revenue tracking and business insights dashboard
-4. **[Pharma Sales KPI Analysis](https://github.com/Munachimso-Chinaza/Pharma-Sales-KPI-analysis)** – KPI monitoring and pharma industry performance insights
+1. **[Global Supply Chain Diagnostics](https://github.com/Munachimso-Chinaza/Coronavirus-Data-Tracker)** 
+2. **[Credit Risk Performance](https://github.com/Munachimso-Chinaza/Starbucks-sales-performance-analysis)**
 
 **View all projects** and feel free to explore my work.
 
