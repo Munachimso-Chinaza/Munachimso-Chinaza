@@ -33,5 +33,5 @@ I am a passionate Data Analyst based in Lagos, Nigeria. I specialize in building
 - Based in Nigeria but experienced working on global projects
 
 ## contact me 
-  EMAIL: munachimsochinaza@gmail.com
+  EMAIL: munachimsoisidore@gmail.com
   PHONE/WHATSAPP: +2347069975458
